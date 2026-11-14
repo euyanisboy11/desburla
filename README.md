@@ -1,3 +1,3 @@
-# ViperHack
+# Desburla
 
-Site do ViperHack (golpes explicados). Gerado por pipeline/fazer_site.py.
+Site do Desburla (golpes explicados). Gerado por pipeline/fazer_site.py.
